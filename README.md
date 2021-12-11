@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Order Summary Frontend Mentor] (https://www.frontendmentor.io/solutions/order-summary-htmlcss-Wk_Hhp-Zl)
+- Solution URL: [Order Summary Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-htmlcss-Wk_Hhp-Zl)
 - Live Site URL: [Order Summary](https://order-summary-component-pqtrp4aia-daarfarias.vercel.app/)
 
 ## My process
