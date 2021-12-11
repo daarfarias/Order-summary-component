@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-htmlcss-Wk_Hhp-Zl](https://your-solution-url.com)
-- Live Site URL: [https://order-summary-component-pqtrp4aia-daarfarias.vercel.app/](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/order-summary-htmlcss-Wk_Hhp-Zl)
+- Live Site URL: (https://order-summary-component-pqtrp4aia-daarfarias.vercel.app/)
 
 ## My process
 
